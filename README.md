@@ -72,7 +72,9 @@ Elevated: 24 ng/mL and above
 
 ## Potential Analysis 
 a) Highest Risk by Age Group
+
 b) Highest Risk by Gender
+
 c) Highest Risk by Cardiac Biomarkers (Heart Rate,Diastolic BP, Systolic BP, Troponin Levels, CK-MB, Blood Sugar Level)
 
 ## Insight
@@ -98,17 +100,17 @@ c) Highest Risk by Cardiac Biomarkers (Heart Rate,Diastolic BP, Systolic BP, Tro
   
 ## Recommendations:
 ### 1. Targeted Awareness and Screening:- Focus on males aged 55-69.
-     - Introduce routine screening, including troponin and BP.
+     Introduce routine screening, including troponin and BP.
   
 ### 2. Enhance Biomarker Monitoring:
-    - Make Troponin testing standard.
-    - Monitor CK-MB as a secondary marker.
+    Make Troponin testing standard.
+    Monitor CK-MB as a secondary marker.
   
 ### 3. Preventive Interventions for Diabetics and Prediabetics:
-     - Promote lifestyle changes in these groups.
+    Promote lifestyle changes in these groups.
   
 ### 4. Gender-Specific Programs:
-    - Create male-focused health initiatives and outreach.
+   Create male-focused health initiatives and outreach.
   
 ### 5. Cross-Analysis with Other Risk Factors:
-    - Further study into lifestyle and other health factors is recommended.
+    Further study into lifestyle and other health factors is recommended.
