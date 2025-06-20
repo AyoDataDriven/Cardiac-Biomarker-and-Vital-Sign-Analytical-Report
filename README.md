@@ -53,13 +53,13 @@ Low: Below 60 mmHg
 Normal: 60–100 mmHg
 High: Above 100 mmHg
 
-### Systolic Blood Pressure:
+#### Systolic Blood Pressure:
 Low: Below 90 mmHg
 Normal: 90–119 mmHg
 Elevated: 120–129 mmHg
 High: 130 mmHg and above
 
-### Troponin Levels:
+#### Troponin Levels:
 Normal: Less than 0.04 ng/mL
 Slightly Elevated: 0.04–0.10 ng/mL
 Elevated: Above 0.10 ng/mL
@@ -76,39 +76,39 @@ b) Highest Risk by Gender
 c) Highest Risk by Cardiac Biomarkers (Heart Rate,Diastolic BP, Systolic BP, Troponin Levels, CK-MB, Blood Sugar Level)
 
 ## Insight
-1. Age Group Risk Distribution:
+### 1. Age Group Risk Distribution:
 - Highest risk: Ages 55-69 (357 cases).
 - Followed by ages 40-54 (212 cases).
 - Ages below 40 show much lower risk.
   
-2. Gender Distribution:
+### 2. Gender Distribution:
 - Males: 69.51% (563 cases)
 - Females: 30.49% (247 cases)
 - Males are more than twice as likely to suffer heart attacks.
   
-3. Blood Sugar Levels:
+### 3. Blood Sugar Levels:
 - Most cases had normal sugar levels (517).
 - Diabetics and prediabetics combined: 281 cases.
 - Sugar imbalance remains a contributing factor.
   
-4. Vital Sign Patterns:
+### 4. Vital Sign Patterns:
 - High systolic BP is common.
 - Troponin is the most critical biomarker.
 - CK-MB is relevant but less consistent.
   
 ## Recommendations:
-1. Targeted Awareness and Screening:- Focus on males aged 55-69.
-- Introduce routine screening, including troponin and BP.
+### 1. Targeted Awareness and Screening:- Focus on males aged 55-69.
+     - Introduce routine screening, including troponin and BP.
   
-2. Enhance Biomarker Monitoring:
-- Make Troponin testing standard.
-- Monitor CK-MB as a secondary marker.
+### 2. Enhance Biomarker Monitoring:
+    - Make Troponin testing standard.
+    - Monitor CK-MB as a secondary marker.
   
-3. Preventive Interventions for Diabetics and Prediabetics:
-- Promote lifestyle changes in these groups.
+### 3. Preventive Interventions for Diabetics and Prediabetics:
+     - Promote lifestyle changes in these groups.
   
-4. Gender-Specific Programs:
-- Create male-focused health initiatives and outreach.
+### 4. Gender-Specific Programs:
+    - Create male-focused health initiatives and outreach.
   
-5. Cross-Analysis with Other Risk Factors:
-- Further study into lifestyle and other health factors is recommended
+### 5. Cross-Analysis with Other Risk Factors:
+    - Further study into lifestyle and other health factors is recommended.
