@@ -22,13 +22,20 @@ iv) Develop predictive insights to stratify risk (e.g., "Troppin" high-risk cate
 The data used for this research was obtained from a publicly available dataset hosted on the Kaggle repository. The dataset was originally collected at Zheen Hospital, located in Erbil, Iraq, over a five-month period from January 2019 to May 2019.
 The dataset contains clinical and demographic records of individuals evaluated for heart attack risks. Key attributes include:
 
-a) Age
+ a) Age
+ 
 b) Gender
+
 c) Heart Rate
+
 d) Systolic Blood Pressure
+
 e) Diastolic Blood Pressure
+
 f) Blood Sugar
+
 g) CK-MB (Creatine Kinase-MB)
+
 h) Troponin levels
 
 The outcome variable is labeled as either positive or negative, indicating the presence or absence of a heart attack. 
@@ -42,13 +49,10 @@ Ages were grouped in intervals of 15 years ranging from 10 to 69 years, while in
 #### Blood Sugar Level:
 Based on medical guidelines, blood sugar values were categorized into four distinct groups:
 
-Low: Below 70 mg/dL
-
-Normal: 70–140 mg/dL
-
-Prediabetes: 140–199 mg/dL
-
-Diabetes: 200 mg/dL and above
+- Low: Below 70 mg/dL
+- Normal: 70–140 mg/dL
+- Prediabetes: 140–199 mg/dL
+- Diabetes: 200 mg/dL and above
 
 #### Heart Rate:
 Using the World Health Organization (WHO) standard:
