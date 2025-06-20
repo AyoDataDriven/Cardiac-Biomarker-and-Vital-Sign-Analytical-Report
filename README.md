@@ -1,4 +1,4 @@
-# Cardiac-Biomarker-and-Vital-Sign-Analytical-Report
+# Cardiac-Biomarker-and-Vital-Sign-Analytical-Report 2024
 ## Introduction
 Cardiovascular diseases (CVDs), particularly acute myocardial infarction (AMI), remain a leading global cause of morbidity and mortality, accounting for approximately 17.9 million deaths annually (WHO, 2023). The escalating prevalence of CVDs has been closely linked to modern lifestyle modifications, including sedentary behaviors and the widespread consumption of energy-dense, nutrient-poor diets high in processed carbohydrates and unhealthy fats. These dietary shifts, compounded by increasing urbanization and stress, have contributed to a surge in metabolic risk factors such as obesity, hypertension, and dyslipidemia—key precursors to atherosclerotic cardiovascular disease.
 
@@ -14,8 +14,8 @@ ii) Evaluate biomarker patterns (e.g., elevated troponin, high CK-MB) and their 
 iii) Assess lifestyle/disease linkages, such as diabetes/blood sugar levels, in predicting cardiac events.
 iv) Develop predictive insights to stratify risk (e.g., "Troppin" high-risk category) and inform preventive strategies.
 
-# Methodology
-##### Data Source
+## Methodology
+### Data Source
 The data used for this research was obtained from a publicly available dataset hosted on the Kaggle repository. The dataset was originally collected at Zheen Hospital, located in Erbil, Iraq, over a five-month period from January 2019 to May 2019.
 The dataset contains clinical and demographic records of individuals evaluated for heart attack risks. Key attributes include:
 a) Age
@@ -29,26 +29,26 @@ h) Troponin levels
 
 The outcome variable is labeled as either positive or negative, indicating the presence or absence of a heart attack. 
 
-#####  Data Transformation
+###  Data Transformation
 To enhance easy readability and interpretaion of the dataset, data transformation was done on the numerical data.This transformation allowed for easier identification of risk patterns and associations among different health indicators. The transformation process is detailed as follows:
 
 #### Age Grouping:
 Ages were grouped in intervals of 15 years ranging from 10 to 69 years, while individuals 69 years and above were categorized separately without further subdivision.
 
-### Blood Sugar Level:
+#### Blood Sugar Level:
 Based on medical guidelines, blood sugar values were categorized into four distinct groups:
 Low: Below 70 mg/dL
 Normal: 70–140 mg/dL
 Prediabetes: 140–199 mg/dL
 Diabetes: 200 mg/dL and above
 
-### Heart Rate:
+#### Heart Rate:
 Using the World Health Organization (WHO) standard:
 Low: Below 60 beats per minute (bpm)
 Normal: 60–100 bpm
 High: Above 100 bpm
 
-### Diastolic Blood Pressure:
+#### Diastolic Blood Pressure:
 Low: Below 60 mmHg
 Normal: 60–100 mmHg
 High: Above 100 mmHg
